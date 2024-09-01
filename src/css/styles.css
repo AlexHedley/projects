@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: #418ab2;
+}
+
+.container {
+    /* max-width: 1140px; */
+    max-width: 1500px;
+}
+
+/* Cards */
+
+.card-header,
+.card-footer {
+    background-color: #418ab2;
+}
+
+.card-header a {
+    font-weight: bold;
+    color: white;
+}
+
+/* Buttons */
+
+.btn-warning,
+.btn-warning:hover {
+    color: #418ab2;
+}
+
+.card-pill-primary {
+    color: #fff;
+    background-color: #418ab2;
+}
