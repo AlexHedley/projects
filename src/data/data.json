@@ -8,7 +8,41 @@
             "image": "https://raw.githubusercontent.com/alexhedley/HEXtoObjCColor/master/HEXtoUIColor.gif",
             "site": "",
             "code": "https://github.com/AlexHedley/HEXtoObjCColor",
-            "tags": ["HEX", "ObjC"]
+            "tags": ["HEX", "ObjC"],
+            "status": "Complete"
+        },
+        {
+            "id": 1,
+            "name": "ChamboulDe-Web",
+            "date": "2024-06-23",
+            "description": "ChamboulDé Score Keeper - Web App",
+            "image": "",
+            "site": "https://alexhedley.com/ChamboulDe-Web/",
+            "code": "https://github.com/AlexHedley/ChamboulDe-Web",
+            "tags": ["Website"],
+            "status": "In Progress"
+        },
+        {
+            "id": 2,
+            "name": "ChamboulDeApp",
+            "date": "2020-09-29",
+            "description": "iOS / Android app to track scores for ChamboulDé",
+            "image": "",
+            "site": "https://alexhedley.com/ChamboulDe/",
+            "code": "https://github.com/AlexHedley/ChamboulDeApp",
+            "tags": ["Xamarin"],
+            "status": "Paused"
+        },
+        {
+            "id": 3,
+            "name": "bga-chamboulde",
+            "date": "1970-01-01",
+            "description": "Board Game Arena version of ChamboulDé",
+            "image": "",
+            "site": "https://en.boardgamearena.com/",
+            "code": "https://github.com/AlexHedley/bga-chamboulde",
+            "tags": ["game"],
+            "status": "Not Started"
         }
     ]
 }
