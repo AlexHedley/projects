@@ -43,6 +43,17 @@
             "code": "https://github.com/AlexHedley/bga-chamboulde",
             "tags": ["game"],
             "status": "Not Started"
+        },
+        {
+            "id": 4,
+            "name": "Terminal Dashboard",
+            "date": "2024-06-14",
+            "description": "terminal dashboard is a scriptable terminal dashboard.",
+            "image": "",
+            "site": "",
+            "code": "https://github.com/AlexHedley/terminal-dashboard",
+            "tags": ["terminal", "dashboard"],
+            "status": "In Progress"
         }
     ]
 }
