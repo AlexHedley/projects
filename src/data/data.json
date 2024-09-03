@@ -65,6 +65,17 @@
             "code": "https://github.com/AlexHedley/poker-recording",
             "tags": ["poker"],
             "status": "In Progress"
+        },
+        {
+            "id": 6,
+            "name": "Blashing",
+            "date": "2023-06-23",
+            "description": "A port/rewrite of Dashing / Smashing in Blazor",
+            "image": "https://raw.githubusercontent.com/alexhedley/blashing/main/docs/images/bowtie_blazor_logo.png",
+            "site": "https://alexhedley.com/blashing/",
+            "code": "https://github.com/AlexHedley/blashing",
+            "tags": ["blazor", "dashboard"],
+            "status": "In Progress"
         }
     ]
 }
