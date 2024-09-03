@@ -54,6 +54,17 @@
             "code": "https://github.com/AlexHedley/terminal-dashboard",
             "tags": ["terminal", "dashboard"],
             "status": "In Progress"
+        },
+        {
+            "id": 5,
+            "name": "Poker Recording",
+            "date": "2023-08-13",
+            "description": "Setup for recording a home poker game",
+            "image": "",
+            "site": "https://alexhedley.com/poker-recording/",
+            "code": "https://github.com/AlexHedley/poker-recording",
+            "tags": ["poker"],
+            "status": "In Progress"
         }
     ]
 }
