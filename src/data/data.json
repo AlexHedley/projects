@@ -142,7 +142,17 @@
             "code": "https://github.com/AlexHedley/broadcom-community-parser",
             "tags": ["C#"],
             "status": "Complete"
+        },
+        {
+            "id": 14,
+            "name": "StreamDeck Plugin Distribution Action",
+            "date": "2020-10-09",
+            "description": "Test repo for building out a GitHub Action to build a Stream Deck Plugin for distribution.",
+            "image": "",
+            "site": "https://github.com/AlexHedley/sdpd-action-test",
+            "code": "https://github.com/AlexHedley/streamdeckplugindistribution-test-action",
+            "tags": ["JavaScript"],
+            "status": "Paused"
         }
     ]
 }
-
