@@ -85,8 +85,19 @@
             "image": "",
             "site": "",
             "code": "https://github.com/AlexHedley/bowling-app",
-            "tags": ["blazor", "c#"],
+            "tags": ["blazor", "C#"],
             "status": "Not Started"
+        },
+        {
+            "id": 8,
+            "name": "Utility",
+            "date": "2015-07-26",
+            "description": ".NET App with helper functions for day to day jobs",
+            "image": "",
+            "site": "https://alexhedley.com/Utility/",
+            "code": "https://github.com/AlexHedley/Utility",
+            "tags": ["VB.NET", "C#", "WPF", "Blazor"],
+            "status": "In Progress"
         }
         
     ]
