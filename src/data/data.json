@@ -76,6 +76,18 @@
             "code": "https://github.com/AlexHedley/blashing",
             "tags": ["blazor", "dashboard"],
             "status": "In Progress"
+        },
+        {
+            "id": 7,
+            "name": "bowling-app",
+            "date": "1970-01-01",
+            "description": "Track your bowling scores",
+            "image": "",
+            "site": "",
+            "code": "https://github.com/AlexHedley/bowling-app",
+            "tags": ["blazor", "c#"],
+            "status": "Not Started"
         }
+        
     ]
 }
