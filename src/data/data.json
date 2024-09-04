@@ -153,6 +153,50 @@
             "code": "https://github.com/AlexHedley/streamdeckplugindistribution-test-action",
             "tags": ["JavaScript"],
             "status": "Paused"
+        },
+        {
+            "id": 15,
+            "name": "snippets",
+            "date": "1970-01-01",
+            "description": "Inspired (stolen) from Josh W Comeau",
+            "image": "",
+            "site": "https://www.joshwcomeau.com/snippets/",
+            "code": "https://github.com/AlexHedley/snippets",
+            "tags": [""],
+            "status": "Not Started"
+        },
+        {
+            "id": 16,
+            "name": "til",
+            "date": "1970-01-01",
+            "description": "Inspired (stolen) from Simon Willison: TIL",
+            "image": "",
+            "site": "https://til.simonwillison.net/",
+            "code": "https://github.com/AlexHedley/til",
+            "tags": [""],
+            "status": "Not Started"
+        },
+        {
+            "id": 17,
+            "name": "byexample",
+            "date": "1970-01-01",
+            "description": "Inspired (stolen) from by Mark McGranaghan and Eli Bendersky",
+            "image": "",
+            "site": "https://alexhedley.com/byexample/",
+            "code": "https://github.com/AlexHedley/byexample",
+            "tags": [""],
+            "status": "Not Started"
+        },
+        {
+            "id": 18,
+            "name": "nocco",
+            "date": "1970-01-01",
+            "description": "Attempt to upgrade nocco, Nocco is a quick-and-dirty, literate-programming-style documentation generator.",
+            "image": "",
+            "site": "http://donwilson.net/nocco/",
+            "code": "https://github.com/AlexHedley/",
+            "tags": [""],
+            "status": "Not Started"
         }
     ]
 }
