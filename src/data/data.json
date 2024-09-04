@@ -131,6 +131,18 @@
             "code": "https://github.com/AlexHedley/movem-level-editor",
             "tags": ["HTML", "CSS", "JavaScript"],
             "status": "Complete"
+        },
+        {
+            "id": 13,
+            "name": "Broadcom Community Parser",
+            "date": "2023-06-20",
+            "description": "Symantec Connect Articles converted to Markdown for my blog",
+            "image": "https://raw.githubusercontent.com/alexhedley/symantec-connect-articles/main/src/input/images/header.png",
+            "site": "https://alexhedley.com/symantec-connect-articles/",
+            "code": "https://github.com/AlexHedley/broadcom-community-parser",
+            "tags": ["C#"],
+            "status": "Complete"
         }
     ]
 }
+
