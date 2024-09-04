@@ -98,7 +98,17 @@
             "code": "https://github.com/AlexHedley/Utility",
             "tags": ["VB.NET", "C#", "WPF", "Blazor"],
             "status": "In Progress"
+        },
+        {
+            "id": 10,
+            "name": "Statiq - Themes",
+            "date": "1970-01-01",
+            "description": "Porting Wyam Themes to Statiq (Samson, Trophy, Stellar, SolidState, Phantom)",
+            "image": "",
+            "site": "https://www.statiq.dev/",
+            "code": "https://github.com/orgs/statiqdev/discussions/227",
+            "tags": [".NET"],
+            "status": "Not Started"
         }
-        
     ]
 }
