@@ -63,7 +63,7 @@
             "image": "",
             "site": "https://alexhedley.com/poker-recording/",
             "code": "https://github.com/AlexHedley/poker-recording",
-            "tags": ["poker"],
+            "tags": ["poker", "C", "C#"],
             "status": "In Progress"
         },
         {
@@ -194,8 +194,8 @@
             "description": "Attempt to upgrade nocco, Nocco is a quick-and-dirty, literate-programming-style documentation generator.",
             "image": "",
             "site": "http://donwilson.net/nocco/",
-            "code": "https://github.com/AlexHedley/",
-            "tags": [""],
+            "code": "https://github.com/AlexHedley/nocco",
+            "tags": ["C#"],
             "status": "Not Started"
         }
     ]
