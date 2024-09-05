@@ -14,12 +14,33 @@ app.controller("controller", function ($scope, $http, $q, $filter) {
         });
     };
 
-    $scope.openRepository = (course) => {
-        window.open(course.code);
+    $scope.openRepository = (project) => {
+        window.open(project.code);
     };
 
-    $scope.openSite = (course) => {
-        window.open(course.site);
+    $scope.openSite = (project) => {
+        window.open(project.site);
+    };
+
+    $scope.getStatus = (project) => {
+        var status = "";
+        switch (project.status) {
+            case "Complete":
+                status = "badge-success";
+                break;
+            case "In Progress":
+                status = "badge-warning";
+                break;
+            case "Paused":
+                status = "badge-info";
+                break;
+            case "Not Started":
+                status = "badge-secondary";
+                break;
+            default:
+                status = "badge-secondary";
+        }
+        return status;
     };
 
     $scope.init();
